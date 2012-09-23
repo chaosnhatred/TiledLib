@@ -1,8 +1,10 @@
 TiledLib
 
 Modifications added to orginal TiledLib
--it's a clone of an old TiledLib version where rendering is handled in TiledLib
--Projects added for Mono, Mono_Linux, Windows Phone 7, Playstation Suite, Windows, Xbox 360 
+
+* it's a clone of an old TiledLib version where rendering is handled in TiledLib
+
+* Projects added for Mono, Mono_Linux, Windows Phone 7, Playstation Suite, Windows, Xbox 360 
 
 
 About
